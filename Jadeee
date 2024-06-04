@@ -1,0 +1,9 @@
+body {
+display : flex; 
+align-item: flex-end;
+justifying-content: center;
+min-height: 100vh;
+background-color: var (--dark-color);
+overflow: hidden;
+perspective: 100px;
+}
